@@ -1,0 +1,2 @@
+#! /bin/bash
+cat .env | travis encrypt --split --add env.global

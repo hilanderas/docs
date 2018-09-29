@@ -1,0 +1,22 @@
+language: node_js
+sudo: required
+dist: trusty
+env:
+  global:
+    secure: gB0SZWmMTCawmygJfWYU2TWsI6xKq8srkwQ6HwtTTXSd3HsJ1yTqAYSRDLzGRLaM8H1vcceALo35I0eZXevw/xOdDjZdX7v51v1Zl9iNj9i1auhhBI9otHcBZPTL/axG474Vnpy7Udw8S9yGmBBeFCHUJlciTxsEPaWwcRBZxWPV4biXjnHUTNEY6YEJNpbNMqOhzFXigsI0F5lphDL6hFj731RNxEmom0svGI0CucbaHc8oD1fMU237Ci6RnqXVP9Y+H67H6gFupuH8HDa8XbKi7Oj8W8NiBD0DDoRpyRz8lhVhyKn5kxeohDsR8ruQtrpNRRcIlngoXTWmlyC8u+m/6oGndQi9XGSX5HwyPu6ohtbg0Z4kfwhdfciF2CsYkJz7aWBFsoqjHpSyt/sR5vdhg+b50+xDpj+na3ctRTUT8KLBruF2Ae50Bpg+C0HP7gs0mcNYulBJhoHup0S8Za0bkPwxqd5+X2Ds1LrijcOX1qeX5ofoAto62iX9nw57eYmseeYVihjnTGwcj1btMEBOX6X1mbWj7nRsIL5WG89iqy/Kq4aWw8JuCI0Tv5rQCrLFVTjMTOhpNQM0jPJxtMkGhs+mOa5fIijpYStrorUGVSw70XrQ2pidOAm1QpowRPXytFNQIoEO92JCUVgUNvn/gLiMpuAzJo1qkrjf0d4=
+branches:
+  only:
+  - master
+before_install:
+- sudo npm install -g gitbook-cli
+install: true
+script: "./build"
+deploy:
+- provider: pages
+  local-dir: "./pages"
+  repo: hilanderas/hilanderas.github.io
+  skip-clean: true
+  keep-history: true
+  github-token: "$GITHUB_TOKEN"
+  on:
+    branch: master
