@@ -15,10 +15,11 @@ install: true
 script: "./build"
 deploy:
 - provider: pages
-  local-dir: "./pages"
+  local-dir: "pages"
   repo: hilanderas/hilanderas.github.io
   skip-clean: true
   keep-history: true
+  target-branch: master
   github-token: "$GITHUB_TOKEN"
   on:
     branch: master
