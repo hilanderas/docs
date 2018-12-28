@@ -1,11 +1,11 @@
 language: node_js
 node_js:
-  - "8"
+- '8'
 sudo: required
 dist: trusty
 env:
   global:
-    secure: gB0SZWmMTCawmygJfWYU2TWsI6xKq8srkwQ6HwtTTXSd3HsJ1yTqAYSRDLzGRLaM8H1vcceALo35I0eZXevw/xOdDjZdX7v51v1Zl9iNj9i1auhhBI9otHcBZPTL/axG474Vnpy7Udw8S9yGmBBeFCHUJlciTxsEPaWwcRBZxWPV4biXjnHUTNEY6YEJNpbNMqOhzFXigsI0F5lphDL6hFj731RNxEmom0svGI0CucbaHc8oD1fMU237Ci6RnqXVP9Y+H67H6gFupuH8HDa8XbKi7Oj8W8NiBD0DDoRpyRz8lhVhyKn5kxeohDsR8ruQtrpNRRcIlngoXTWmlyC8u+m/6oGndQi9XGSX5HwyPu6ohtbg0Z4kfwhdfciF2CsYkJz7aWBFsoqjHpSyt/sR5vdhg+b50+xDpj+na3ctRTUT8KLBruF2Ae50Bpg+C0HP7gs0mcNYulBJhoHup0S8Za0bkPwxqd5+X2Ds1LrijcOX1qeX5ofoAto62iX9nw57eYmseeYVihjnTGwcj1btMEBOX6X1mbWj7nRsIL5WG89iqy/Kq4aWw8JuCI0Tv5rQCrLFVTjMTOhpNQM0jPJxtMkGhs+mOa5fIijpYStrorUGVSw70XrQ2pidOAm1QpowRPXytFNQIoEO92JCUVgUNvn/gLiMpuAzJo1qkrjf0d4=
+    secure: URFvhD9K2O1lr4oUB5GGCBUXk1nPHGF0BP+yUC+xn4WpkidPclKGOZtZWUS9wipywmMMWV3mNBQTKi5+YRMcXdOGNZ7P8xDqnNkHvSsxUrrExjg45cLra2AVT2kfe39bcGFYx+HPdu3au1kSmvjyyJaRQQ6KkZFykvn2HC3dF9oGMwNIUBRyZbFCaFdUBcSxJYHs+GgHKJz/1dUhR5+kL5welloc/0aUWjU7AQNunMD3hKuJHoxcqj78ksOxr0vI/XwrVGMFsZIAOb0KsJCirXeUO15eaAzRMSr4A4Ut8x9VVR15OtEcar+qfRA6fL2m5vQTSmV3BM/4RkGN7CruUnRk55fRPSRrnwUWhPhOXuOCUsQd7jiCvyhUragNWM4GHYB4GrFf83CaOPcuX8Shu9rmTllL07A4aXVyOyBMI+x2QzfyeF1nrQKn4FR3Ea2l43ayF4oaz9sDLnKSI4FH4k8riNvDeh2YD4Z3PI1YybQg2x82QiwZ+4YBofSRcNx6NjUj7Tl+LFpzjlcJiyoe1XWocr0DHfo405OYqYFxPijykc7zbqRa1p1I4NQNLif7AgbIeb2wp5ACBUFYZxv4YNL0PPLHjMSgVOR/knOTyPsnaGPU5/WTLJs05hax/hOqS371QhKy1jxdrfqjgOqIxOGP63oUScv+P6NZePwkDjY=
 branches:
   only:
   - master
@@ -17,7 +17,7 @@ deploy:
 - provider: pages
   skip-cleanup: true
   keep-history: true
-  local-dir: "pages"
+  local-dir: pages
   repo: hilanderas/hilanderas.github.io
   target-branch: master
   github-token: "$GITHUB_TOKEN"
