@@ -44,7 +44,6 @@
 
 ### How to participate
 * [Donation](participate/DONATION.md)
-* [Support](participate/SUPPORT.md)
 * [How to contribute](participate/CONTRIBUTE.md)
 
 
