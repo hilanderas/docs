@@ -5,7 +5,8 @@
 * [Who are the users ?](USERS.md)
 
 ### Quick start
-
+* [Install server side](quickstart/INSTALL_SERVER.md)
+* [Install client side](quickstart/INSTALL_CLIENT.md)
 
 ### Server deployment
 * [How to choose a VPS provider](deployment/server/PROVIDER.md)
