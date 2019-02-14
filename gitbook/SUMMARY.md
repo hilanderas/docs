@@ -31,8 +31,6 @@
 * [Soft Router (armv6)](hardware/SR_ARMV6.md)
 * [Wireless router](hardware/WIRELESS.md)
 * [ISP](hardware/ISP.md)
-* [Networking cables](hardware/NET_CABLES.md)
-* [HDMI and VGA cables](hardware/CABLES.md)
 * [USB to RJ45](hardware/CONVERTER.md)
 
 ### Cleanup
