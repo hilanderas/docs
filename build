@@ -1,1 +1,4 @@
 gitbook build gitbook pages
+ls pages
+sed -i 's/http:\/\/player.vimeo.com/https:\/\/player.vimeo.com/g' pages/quickstart/INSTALL_*
+grep -R player.vimeo.com pages
