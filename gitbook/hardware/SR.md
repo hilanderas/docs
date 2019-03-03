@@ -1,8 +1,11 @@
-# Soft Router (x86)
+# Soft Router
 
 ### What is Soft Router
 
 ### What it looks like
+#### x86
+
+#### arm
 
 ### Configuration
 

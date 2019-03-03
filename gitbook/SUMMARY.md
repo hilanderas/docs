@@ -9,8 +9,7 @@
 * [Install client side](quickstart/INSTALL_CLIENT.md)
 
 ### Hardware introduction
-* [Soft Router (x86)](hardware/SR_X86.md)
-* [Soft Router (armv6)](hardware/SR_ARMV6.md)
+* [Soft Router](hardware/SR.md)
 * [Wireless router](hardware/WIRELESS.md)
 * [ISP](hardware/ISP.md)
 * [USB to RJ45](hardware/CONVERTER.md)
