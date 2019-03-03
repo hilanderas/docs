@@ -1,1 +1,0 @@
-# Uninstall dependency on client

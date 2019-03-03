@@ -1,4 +1,4 @@
-# How to participate
+# How to contribute 
 
 We appreciate your interest! The first thing you should do is to check out our [Code of Conduct](https://github.com/hilanderas/docs/blob/master/.github/CODE_OF_CONDUCT.md). Here's a running list of things we'd love some help with!
 

@@ -1,1 +1,0 @@
-# Uninstall powter-server
