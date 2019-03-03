@@ -1,4 +1,4 @@
-# Soft Router (X86)
+# Soft Router (x86)
 
 ### What is Soft Router
 
