@@ -11,7 +11,7 @@
 
 ### Hardware introduction
 * [Soft Router](hardware/SR.md)
-* [USB to RJ45](hardware/CONVERTER.md)
+* [USB to NIC](hardware/CONVERTER.md)
 
 ### How to participate
 * [Donation](participate/DONATION.md)
