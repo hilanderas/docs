@@ -12,7 +12,7 @@
 	* Two Ethernet cables
 	* One HDMI cable
 
- Check video below to have a overview of all the hardware devices
+ Check video below to have an overview of all the hardware devices
  {% video %}https://vimeo.com/319135935{% endvideo %}
 
 
