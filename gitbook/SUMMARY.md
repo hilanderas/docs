@@ -11,8 +11,6 @@
 
 ### Hardware introduction
 * [Soft Router](hardware/SR.md)
-* [Wireless router](hardware/WIRELESS.md)
-* [ISP](hardware/ISP.md)
 * [USB to RJ45](hardware/CONVERTER.md)
 
 ### How to participate
