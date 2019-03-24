@@ -18,13 +18,14 @@ Take [Amazon Lightsail](https://lightsail.aws.amazon.com) as an example.
 
 More details check video below:
 <iframe frameborder="0" width="100%" height="450" src="https://www.dailymotion.com/embed/video/x7490i0" allowfullscreen allow="autoplay"></iframe>
-
+Music by [Svyat Ilin](https://icons8.com/music/author/svyat-ilin) from [Fugue](https://icons8.com/music)
 
 ### Step 2: Install environment
 Ubuntu system utilities, `Docker CE`, `docker-compose` need to be installed. Refer to [server dependency installation](https://hilanderas.github.io/powter-server/en/usage/quickstart/DEPENDENCY.html)
 
 More details check video below, click vimeo in the bottom right to zoom out.
 <iframe frameborder="0" width="100%" height="450" src="https://www.dailymotion.com/embed/video/x74pxft" allowfullscreen allow="autoplay"></iframe>
+Music by [Svyat Ilin](https://icons8.com/music/author/svyat-ilin) from [Fugue](https://icons8.com/music)
 
 ### Step 3: Install powter-server
 * Check `WAN interface` of your instance, it is `eth0` for `AWS`.

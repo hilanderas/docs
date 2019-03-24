@@ -14,13 +14,16 @@
 
  Check video below to have an overview of all the hardware devices
 <iframe frameborder="0" width="100%" height="450" src="https://www.dailymotion.com/embed/video/x748zrp" allowfullscreen allow="autoplay"></iframe>
+Music by [Svyat Ilin](https://icons8.com/music/author/svyat-ilin) from [Fugue](https://icons8.com/music)
 
 * Assemble Raspberry Pi
 <iframe frameborder="0" width="100%" height="450" src="https://www.dailymotion.com/embed/video/x74905k" allowfullscreen allow="autoplay"></iframe>
+Music by [Svyat Ilin](https://icons8.com/music/author/svyat-ilin) from [Fugue](https://icons8.com/music)
 
 ### Step 2: Install OS on micro SD card
 * Insert the micro SD card into a card reader and plug it into USB interface of a computer 
 <iframe frameborder="0" width="100%" height="450" src="https://www.dailymotion.com/embed/video/x7490ha" allowfullscreen allow="autoplay"></iframe>
+Music by [Svyat Ilin](https://icons8.com/music/author/svyat-ilin) from [Fugue](https://icons8.com/music)
 
 * Install the Operating System on to the micro SD card
 <iframe frameborder="0" width="100%" height="450" src="https://www.dailymotion.com/embed/video/x748zz4" allowfullscreen allow="autoplay"></iframe>
@@ -28,12 +31,14 @@
 ### Step 3: Install dependencies 
 * Setting up the Raspberry Pi to install dependencies on it
 <iframe frameborder="0" width="100%" height="450" src="https://www.dailymotion.com/embed/video/x7490yq" allowfullscreen allow="autoplay"></iframe>
+Music by [Svyat Ilin](https://icons8.com/music/author/svyat-ilin) from [Fugue](https://icons8.com/music)
 
 * Install [dependencies for routing](https://hilanderas.github.io/routing/usage/quickstart/DEPENDENCY.html)
 * Install [dependencies for powter-client](https://hilanderas.github.io/powter-client/en/usage/quickstart/DEPENDENCY.html)
 
  Details about how to install dependencies for routing and powter-client are shown in this video
  <iframe frameborder="0" width="100%" height="450" src="https://www.dailymotion.com/embed/video/x74mp37" allowfullscreen allow="autoplay"></iframe>
+Music by [Svyat Ilin](https://icons8.com/music/author/svyat-ilin) from [Fugue](https://icons8.com/music)
 
 
 ### Step 4: Install routing
@@ -46,6 +51,7 @@ Install [powter-client](https://hilanderas.github.io/powter-client/en/usage/quic
 ### Step 6: Connect devices 
 * Hopefully by now all the software and hardware are ready, follow the video below to connect cable in right way
 <iframe frameborder="0" width="100%" height="450" src="https://www.dailymotion.com/embed/video/x7491aa" allowfullscreen allow="autoplay"></iframe>
+Music by [Svyat Ilin](https://icons8.com/music/author/svyat-ilin) from [Fugue](https://icons8.com/music)
 
 * Test functionality
 
