@@ -33,8 +33,8 @@ Music by [Svyat Ilin](https://icons8.com/music/author/svyat-ilin) from [Fugue](h
 <iframe frameborder="0" width="100%" height="450" src="https://www.dailymotion.com/embed/video/x7490yq" allowfullscreen allow="autoplay"></iframe>
 Music by [Svyat Ilin](https://icons8.com/music/author/svyat-ilin) from [Fugue](https://icons8.com/music)
 
-* Install [dependencies for routing](https://hilanderas.github.io/routing/usage/quickstart/DEPENDENCY.html)
-* Install [dependencies for powter-client](https://hilanderas.github.io/powter-client/en/usage/quickstart/DEPENDENCY.html)
+* Install [dependencies for routing](https://hilanderas.github.io/routing/quickstart/DEPENDENCY.html)
+* Install [dependencies for powter-client](https://hilanderas.github.io/powter-client/en/quickstart/DEPENDENCY.html)
 
  Details about how to install dependencies for routing and powter-client are shown in this video
  <iframe frameborder="0" width="100%" height="450" src="https://www.dailymotion.com/embed/video/x74mp37" allowfullscreen allow="autoplay"></iframe>
@@ -42,10 +42,10 @@ Music by [Svyat Ilin](https://icons8.com/music/author/svyat-ilin) from [Fugue](h
 
 
 ### Step 4: Install routing
-Install [routing](https://hilanderas.github.io/routing/usage/quickstart/INSTALL.html)
+Install [routing](https://hilanderas.github.io/routing/quickstart/INSTALL.html)
 
 ### Step 5: Install powter-client
-Install [powter-client](https://hilanderas.github.io/powter-client/en/usage/quickstart/INSTALL.html)
+Install [powter-client](https://hilanderas.github.io/powter-client/en/quickstart/INSTALL.html)
 
 
 ### Step 6: Connect devices 

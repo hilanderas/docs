@@ -21,7 +21,7 @@ More details check video below:
 Music by [Svyat Ilin](https://icons8.com/music/author/svyat-ilin) from [Fugue](https://icons8.com/music)
 
 ### Step 2: Install environment
-Ubuntu system utilities, `Docker CE`, `docker-compose` need to be installed. Refer to [server dependency installation](https://hilanderas.github.io/powter-server/en/usage/quickstart/DEPENDENCY.html)
+Ubuntu system utilities, `Docker CE`, `docker-compose` need to be installed. Refer to [server dependency installation](https://hilanderas.github.io/powter-server/en/quickstart/DEPENDENCY.html)
 
 More details check video below, click vimeo in the bottom right to zoom out.
 <iframe frameborder="0" width="100%" height="450" src="https://www.dailymotion.com/embed/video/x74pxft" allowfullscreen allow="autoplay"></iframe>
@@ -36,4 +36,4 @@ ifconfig
 ```bash
 echo $USER
 ``` 
-* Install [powter-server](https://hilanderas.github.io/powter-server/en/usage/quickstart/INSTALL.html). You will need the `USER` and `WAN interface` above during configuration.
+* Install [powter-server](https://hilanderas.github.io/powter-server/en/quickstart/INSTALL.html). You will need the `USER` and `WAN interface` above during configuration.
